@@ -4,9 +4,11 @@ body	{
 	font-size: large;
 	font-weight: lighter;
 	color: deepskyblue;
-	-webkit-text-fill-color: deepskyblue;
+
+	text-shadow: -1px -1px 0 #FF0, 1px -1px 0 #FF0, -1px 1px 0 #FF0, 1px 1px 0 #FF0;
+	/*-webkit-text-fill-color: deepskyblue;
 	-webkit-text- stroke-width: 1px;
-	-webkit-text- stroke-color: white;
+	-webkit-text- stroke-color: white;*/
 	background-color: pink;
 	opacity: 40;
 	background: linear-gradient(to bottom, pink, lightpink);
