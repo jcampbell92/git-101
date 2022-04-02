@@ -1,11 +1,23 @@
 body	{
 	margin: 0;
 	font-family: Helvetica;
+	font-size: large;
+	color: deepskyblue;
+	-webkit-text-fill-color: deepskyblue;
+	-webkit-text- stroke-width: 1px;
+	-webkit-text- stroke-color: white;
+	background-color: pink;
+	opacity: 40;
+	background: linear-gradient(to bottom, pink, lightpink);
 }
+
 
 #logo	{
 	height: 115px;
 	width: 153px;
+	border: 2px solid whitesmoke;
+	border-radius: 25px;
+	opacity: 80;
 }
 
 #container	{
