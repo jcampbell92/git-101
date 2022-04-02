@@ -2,6 +2,7 @@ body	{
 	margin: 0;
 	font-family: Helvetica;
 	font-size: large;
+	font-weight: lighter;
 	color: deepskyblue;
 	-webkit-text-fill-color: deepskyblue;
 	-webkit-text- stroke-width: 1px;
